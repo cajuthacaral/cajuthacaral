@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/caju/static/css/main.2ed4460a.css",
-    "main.js": "/caju/static/js/main.4792f86d.js",
+    "main.css": "/caju/static/css/main.bbe5c7ec.css",
+    "main.js": "/caju/static/js/main.d954f780.js",
     "static/js/208.bd703ce2.chunk.js": "/caju/static/js/208.bd703ce2.chunk.js",
     "static/js/293.50562e1c.chunk.js": "/caju/static/js/293.50562e1c.chunk.js",
     "static/js/917.e498784a.chunk.js": "/caju/static/js/917.e498784a.chunk.js",
@@ -32,8 +32,8 @@
     "static/media/Story6.png": "/caju/static/media/Story6.efd3f2d29180d78bf229.png",
     "static/media/MenuFire1-1.png": "/caju/static/media/MenuFire1-1.d64c5e8a00df9bdd3879.png",
     "index.html": "/caju/index.html",
-    "main.2ed4460a.css.map": "/caju/static/css/main.2ed4460a.css.map",
-    "main.4792f86d.js.map": "/caju/static/js/main.4792f86d.js.map",
+    "main.bbe5c7ec.css.map": "/caju/static/css/main.bbe5c7ec.css.map",
+    "main.d954f780.js.map": "/caju/static/js/main.d954f780.js.map",
     "208.bd703ce2.chunk.js.map": "/caju/static/js/208.bd703ce2.chunk.js.map",
     "293.50562e1c.chunk.js.map": "/caju/static/js/293.50562e1c.chunk.js.map",
     "917.e498784a.chunk.js.map": "/caju/static/js/917.e498784a.chunk.js.map",
@@ -45,7 +45,7 @@
     "453.1d55e081.chunk.js.map": "/caju/static/js/453.1d55e081.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ed4460a.css",
-    "static/js/main.4792f86d.js"
+    "static/css/main.bbe5c7ec.css",
+    "static/js/main.d954f780.js"
   ]
 }

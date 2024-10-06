@@ -48,7 +48,7 @@ export default function HomePage({ onStartJourney }) {
             <button className="mute-button" onClick={toggleMute}>
                 {isMuted ? <FaVolumeMute /> : <FaVolumeUp />} {/* Alterna entre os ícones */}
             </button>
-            <div className="overlay">
+            <div className="overlay1">
                 <Button label="Start your journey in space" onClick={accelerate} />
             </div>
             <audio ref={audioRef} src={`${process.env.PUBLIC_URL}/media/space.mp3`} loop />

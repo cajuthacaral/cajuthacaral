@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/caju/static/css/main.bbe5c7ec.css",
-    "main.js": "/caju/static/js/main.d954f780.js",
+    "main.css": "/caju/static/css/main.427b8609.css",
+    "main.js": "/caju/static/js/main.554319de.js",
     "static/js/208.bd703ce2.chunk.js": "/caju/static/js/208.bd703ce2.chunk.js",
     "static/js/293.50562e1c.chunk.js": "/caju/static/js/293.50562e1c.chunk.js",
     "static/js/917.e498784a.chunk.js": "/caju/static/js/917.e498784a.chunk.js",
@@ -11,6 +11,7 @@
     "static/js/160.1ef1840f.chunk.js": "/caju/static/js/160.1ef1840f.chunk.js",
     "static/js/23.1e91c18e.chunk.js": "/caju/static/js/23.1e91c18e.chunk.js",
     "static/js/453.1d55e081.chunk.js": "/caju/static/js/453.1d55e081.chunk.js",
+    "static/media/Wind6.png": "/caju/static/media/Wind6.78e20b47c9f59f0fe126.png",
     "static/media/Aqua3.png": "/caju/static/media/Aqua3.992477c4338602623232.png",
     "static/media/Aqua9.png": "/caju/static/media/Aqua9.d11346c0df9b988cd2d9.png",
     "static/media/Aqua5.png": "/caju/static/media/Aqua5.98081c2ed5f83d89cb67.png",
@@ -22,8 +23,15 @@
     "static/media/Story4.png": "/caju/static/media/Story4.5db3b21038ddd715bae7.png",
     "static/media/Story2.png": "/caju/static/media/Story2.04b24c5b06849a1ef96b.png",
     "static/media/Story3.png": "/caju/static/media/Story3.d3c7009310e60e5dc28e.png",
+    "static/media/Wind1.png": "/caju/static/media/Wind1.b836905c4eb37a44bff4.png",
     "static/media/Story1.png": "/caju/static/media/Story1.750ecbd0aa0412c8b70c.png",
     "static/media/Aqua1.png": "/caju/static/media/Aqua1.32a7b6f7818d05812111.png",
+    "static/media/Wind4.png": "/caju/static/media/Wind4.9de0fd765c9dfc6ebe96.png",
+    "static/media/Wind7.png": "/caju/static/media/Wind7.3d2eae61ae480a7fecfd.png",
+    "static/media/Wind8.png": "/caju/static/media/Wind8.e6d304ef848ab3dd1ac3.png",
+    "static/media/Wind11.png": "/caju/static/media/Wind11.e963760c7f2c42bc2724.png",
+    "static/media/Wind9.png": "/caju/static/media/Wind9.d1785267f7d5ec98e39b.png",
+    "static/media/Wind10.png": "/caju/static/media/Wind10.3725428ab52c7b7c14c3.png",
     "static/media/Aqua8.png": "/caju/static/media/Aqua8.097e4f8186e021cb9db4.png",
     "static/media/MenuFire1-3.png": "/caju/static/media/MenuFire1-3.305be9e6605d2e51f72e.png",
     "static/media/MenuAqua1.png": "/caju/static/media/MenuAqua1.23f41da3d313e2679dd4.png",
@@ -32,8 +40,8 @@
     "static/media/Story6.png": "/caju/static/media/Story6.efd3f2d29180d78bf229.png",
     "static/media/MenuFire1-1.png": "/caju/static/media/MenuFire1-1.d64c5e8a00df9bdd3879.png",
     "index.html": "/caju/index.html",
-    "main.bbe5c7ec.css.map": "/caju/static/css/main.bbe5c7ec.css.map",
-    "main.d954f780.js.map": "/caju/static/js/main.d954f780.js.map",
+    "main.427b8609.css.map": "/caju/static/css/main.427b8609.css.map",
+    "main.554319de.js.map": "/caju/static/js/main.554319de.js.map",
     "208.bd703ce2.chunk.js.map": "/caju/static/js/208.bd703ce2.chunk.js.map",
     "293.50562e1c.chunk.js.map": "/caju/static/js/293.50562e1c.chunk.js.map",
     "917.e498784a.chunk.js.map": "/caju/static/js/917.e498784a.chunk.js.map",
@@ -45,7 +53,7 @@
     "453.1d55e081.chunk.js.map": "/caju/static/js/453.1d55e081.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbe5c7ec.css",
-    "static/js/main.d954f780.js"
+    "static/css/main.427b8609.css",
+    "static/js/main.554319de.js"
   ]
 }

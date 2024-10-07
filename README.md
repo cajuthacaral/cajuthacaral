@@ -29,7 +29,7 @@ The Gaia system animation can be visualized [here](https://youtu.be/xAc13Ko-bt4)
 * [Thalles José de S. Cansi](https://github.com/ThallesCansi)  
 * [Caio M. Cavallari Ruas](https://github.com/CaioRuas24010)
 * [Caio M. Leão Dantas](https://github.com/Caiomld)  
-* [Rafael Anis Shaikhzadeh](https://github.com/Rafael24018)  
+* [Rafael Anis Shaikhzadeh](https://github.com/RafaelShaikhzadeh)  
 * [Julia G. Almeida dos Santos](https://github.com/JuliaGuedesASantos)  
 * [Ana Luz](https://github.com/LuzMendes)  
  

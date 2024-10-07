@@ -1,12 +1,14 @@
 import React, { useState, useRef } from "react";
+import { useNavigate } from "react-router-dom"; // Importa useNavigate
 import SpaceJourney from "../components/SpaceJourney"; // Importa o SpaceJourney
 import { FaVolumeUp, FaVolumeMute } from "react-icons/fa"; // Ícones para som ativado/desativado
 import Button from "../components/Button"; // Mantém o botão estilizado
 
-export default function HomePage({ onStartJourney }) {
+export default function HomePage() {
     const [isAccelerating, setIsAccelerating] = useState(false); // Controla a aceleração da jornada
     const [isMuted, setIsMuted] = useState(false); // Estado para controlar o mute
     const audioRef = useRef(null);
+    const navigate = useNavigate(); // Hook para navegar entre páginas
 
     // Tocar a música assim que o usuário interage com a página
     const startMusic = () => {
@@ -29,7 +31,7 @@ export default function HomePage({ onStartJourney }) {
 
         // Após 5 segundos, chamar a função de troca de página
         setTimeout(() => {
-            onStartJourney(); // Chama a função recebida via props
+            navigate("/caju/story1"); // Navega para a página "story1"
         }, 5000);
     };
 

@@ -24,7 +24,20 @@ import StoryAqua10 from "./pages/StoryAqua10"; // Nova página da história
 import StoryAqua11 from "./pages/StoryAqua11"; // Nova página da história
 import StoryAqua12 from "./pages/StoryAqua12"; // Nova página da história
 
+import StoryWind1 from "./pages/StoryWind1"; // Nova página da história
+import StoryWind2 from "./pages/StoryWind2"; // Nova página da história
+import StoryWind3 from "./pages/StoryWind3"; // Nova página da história
+import StoryWind4 from "./pages/StoryWind4"; // Nova página da história
+import StoryWind5 from "./pages/StoryWind5"; // Nova página da história
+import StoryWind6 from "./pages/StoryWind6"; // Nova página da história
+import StoryWind7 from "./pages/StoryWind7"; // Nova página da história
+import StoryWind8 from "./pages/StoryWind8"; // Nova página da história
+import StoryWind9 from "./pages/StoryWind9"; // Nova página da história
+import StoryWind10 from "./pages/StoryWind10"; // Nova página da história
+import StoryWind11 from "./pages/StoryWind11"; // Nova página da história
+
 import ScratchAqua from "./pages/ScratchAqua"; // Se necessário
+import ScratchWind from "./pages/ScratchWind"; // Se necessário
 import "./App.css";
 
 function App() {
@@ -66,8 +79,22 @@ function App() {
                 <Route path="/caju/storyaqua11" element={<StoryAqua11 />} />
                 <Route path="/caju/storyaqua12" element={<StoryAqua12 />} />
 
+                <Route path="/caju/storywind1" element={<StoryWind1 />} />
+                <Route path="/caju/storywind2" element={<StoryWind2 />} />
+                <Route path="/caju/storywind3" element={<StoryWind3 />} />
+                <Route path="/caju/storywind4" element={<StoryWind4 />} />
+                <Route path="/caju/storywind5" element={<StoryWind5 />} />
+                <Route path="/caju/storywind6" element={<StoryWind6 />} />
+                <Route path="/caju/storywind7" element={<StoryWind7 />} />
+                <Route path="/caju/storywind8" element={<StoryWind8 />} />
+                <Route path="/caju/storywind9" element={<StoryWind9 />} />
+                <Route path="/caju/storywind10" element={<StoryWind10 />} />
+                <Route path="/caju/storywind11" element={<StoryWind11 />} />
+
+
                 {/* Exemplo: Se ainda precisar da ScratchPage */}
                 <Route path="/caju/scratchaqua" element={<ScratchAqua />} />
+                <Route path="/caju/scratchwind" element={<ScratchWind />} />
             </Routes>
         </Router>
     );

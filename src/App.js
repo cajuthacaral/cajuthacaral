@@ -46,10 +46,12 @@ import StoryFire7 from "./pages/StoryFire7"; // Nova página da história
 import StoryFire8 from "./pages/StoryFire8"; // Nova página da história
 import StoryFire9 from "./pages/StoryFire9"; // Nova página da história
 import StoryFire10 from "./pages/StoryFire10"; // Nova página da história
+import VideoPage from "./pages/VideoPage"; // Nova página da história
 
 import ScratchAqua from "./pages/ScratchAqua"; // Se necessário
 import ScratchWind from "./pages/ScratchWind"; // Se necessário
 import ScratchFire from "./pages/ScratchFire"; // Se necessário
+import ScratchGround from "./pages/ScratchGround"; // Se necessário
 import "./App.css";
 
 function App() {
@@ -114,10 +116,13 @@ function App() {
                 <Route path="/caju/storyfire9" element={<StoryFire9 />} />
                 <Route path="/caju/storyfire10" element={<StoryFire10 />} />
 
+                <Route path="/caju/videopage" element={<VideoPage />} />
+
                 {/* Exemplo: Se ainda precisar da ScratchPage */}
                 <Route path="/caju/scratchaqua" element={<ScratchAqua />} />
                 <Route path="/caju/scratchwind" element={<ScratchWind />} />
                 <Route path="/caju/scratchfire" element={<ScratchFire />} />
+                <Route path="/caju/scratchground" element={<ScratchGround />} />
             </Routes>
         </Router>
     );

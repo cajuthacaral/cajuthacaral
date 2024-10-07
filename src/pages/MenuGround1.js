@@ -12,7 +12,7 @@ export default function StoryPage2() {
     const { nickname } = location.state || { nickname: "Caju" };
 
     const handleNavigation = () => {
-        navigate("/caju/story6");
+        navigate("/caju/scratchground");
     };
 
     const handleBack = () => {

@@ -43,6 +43,11 @@ export default function HomePage() {
         }
     };
 
+    // Função para ir para a página do vídeo
+    const goToVideo = () => {
+        navigate("/caju/videopage"); // Navega para a página do vídeo
+    };
+
     return (
         <div className="App" onClick={startMusic}>
             {/* Inicia a música na primeira interação */}
@@ -52,6 +57,9 @@ export default function HomePage() {
             </button>
             <div className="overlay1">
                 <Button label="Start your journey in space" onClick={accelerate} />
+            </div>
+            <div className="overlay2">
+                <Button label="Watch animated version" onClick={goToVideo} /> {/* Botão que leva ao vídeo */}
             </div>
             <audio ref={audioRef} src={`${process.env.PUBLIC_URL}/media/space.mp3`} loop />
         </div>

@@ -38,3 +38,47 @@ iframe {
     background-color: transparent;
     z-index: 2; /* Acima do iframe */
 }
+
+.button-continue-ground3 {
+    position: absolute;
+    background-image: url("../../public/images/MenuFire1.png");
+    z-index: 4;
+    width: 300px; /* Largura exata do botão */
+    height: 70px;  /* Altura exata do botão */
+    top: 88%;      /* Posição do botão */
+    left: 77%;     /* Posição do botão */
+    
+    /* Ajuste de background */
+    background-size: contain; /* Faz a imagem se ajustar dentro da área sem cortar */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat;
+    
+    /* Opções de layout */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* Overflow não é mais necessário */
+}
+
+.button-return-ground3 {
+    position: absolute;
+    background-image: url("../../public/images/Story6-2.png");
+    z-index: 4;
+    width: 300px; /* Largura exata do botão */
+    height: 70px;  /* Altura exata do botão */
+    top: 88%;      /* Posição do botão */
+    left: -0%;     /* Posição do botão */
+    
+    /* Ajuste de background */
+    background-size: contain; /* Faz a imagem se ajustar dentro da área sem cortar */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat;
+    
+    /* Opções de layout */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* Overflow não é mais necessário */
+}

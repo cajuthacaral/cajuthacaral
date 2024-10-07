@@ -36,8 +36,20 @@ import StoryWind9 from "./pages/StoryWind9"; // Nova página da história
 import StoryWind10 from "./pages/StoryWind10"; // Nova página da história
 import StoryWind11 from "./pages/StoryWind11"; // Nova página da história
 
+import StoryFire1 from "./pages/StoryFire1"; // Nova página da história
+import StoryFire2 from "./pages/StoryFire2"; // Nova página da história
+import StoryFire3 from "./pages/StoryFire3"; // Nova página da história
+import StoryFire4 from "./pages/StoryFire4"; // Nova página da história
+import StoryFire5 from "./pages/StoryFire5"; // Nova página da história
+import StoryFire6 from "./pages/StoryFire6"; // Nova página da história
+import StoryFire7 from "./pages/StoryFire7"; // Nova página da história
+import StoryFire8 from "./pages/StoryFire8"; // Nova página da história
+import StoryFire9 from "./pages/StoryFire9"; // Nova página da história
+import StoryFire10 from "./pages/StoryFire10"; // Nova página da história
+
 import ScratchAqua from "./pages/ScratchAqua"; // Se necessário
 import ScratchWind from "./pages/ScratchWind"; // Se necessário
+import ScratchFire from "./pages/ScratchFire"; // Se necessário
 import "./App.css";
 
 function App() {
@@ -91,10 +103,21 @@ function App() {
                 <Route path="/caju/storywind10" element={<StoryWind10 />} />
                 <Route path="/caju/storywind11" element={<StoryWind11 />} />
 
+                <Route path="/caju/storyfire1" element={<StoryFire1 />} />
+                <Route path="/caju/storyfire2" element={<StoryFire2 />} />
+                <Route path="/caju/storyfire3" element={<StoryFire3 />} />
+                <Route path="/caju/storyfire4" element={<StoryFire4 />} />
+                <Route path="/caju/storyfire5" element={<StoryFire5 />} />
+                <Route path="/caju/storyfire6" element={<StoryFire6 />} />
+                <Route path="/caju/storyfire7" element={<StoryFire7 />} />
+                <Route path="/caju/storyfire8" element={<StoryFire8 />} />
+                <Route path="/caju/storyfire9" element={<StoryFire9 />} />
+                <Route path="/caju/storyfire10" element={<StoryFire10 />} />
 
                 {/* Exemplo: Se ainda precisar da ScratchPage */}
                 <Route path="/caju/scratchaqua" element={<ScratchAqua />} />
                 <Route path="/caju/scratchwind" element={<ScratchWind />} />
+                <Route path="/caju/scratchfire" element={<ScratchFire />} />
             </Routes>
         </Router>
     );

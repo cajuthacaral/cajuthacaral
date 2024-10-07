@@ -14,7 +14,7 @@ Our project demo can be accessed at [Project Demo: Capy-tain Juca: The Gaia Miss
 
 ## Other links:
 
-To access the complete history animation, you can click [here](https://youtu.be/ZJWuf9mfg64).
+To access a simulated complete history animation, you can click [here](https://youtu.be/ZJWuf9mfg64).
 
 All the minigames can be direct accessed by these links:
 [Pyro Planet minigame](https://scratch.mit.edu/projects/1077276956/);

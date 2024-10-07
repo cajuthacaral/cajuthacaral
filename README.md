@@ -10,7 +10,11 @@ The project can be accessed by clicking this [link](https://cajuthacaral.github.
 
 "Capy-tain Juca: The Gaia Mission" is an immersive experience where players join Juca, an intergalactic capybara astronaut, on a mission to restore balance to four interconnected planets, addressing environmental challenges inspired by real-world NASA data. Each planet represents a different Earth system, and the game demonstrates how disruptions in one (like wildfires or pollution) impact the others, illustrating the intricate global connections emphasized in NASA's Earth systems research. The project uses multimedia elements—animations, storytelling, real-world imagery, and interactive minigames—combined with NASA satellite data to showcase these interconnections. By doing so, we aim to educate and inspire current and future generations to both admire Earth’s beauty and understand the critical importance of maintaining balance across its ecosystems.
 
+Our project demo can be accessed at [Project Demo: Capy-tain Juca: The Gaia Mission](https://youtu.be/mIlZoF84B90).
+
 ## Other links:
+
+To access the complete history animation, you can click [here](https://youtu.be/ZJWuf9mfg64).
 
 All the minigames can be direct accessed by these links:
 [Pyro Planet minigame](https://scratch.mit.edu/projects/1077276956/);
@@ -25,7 +29,7 @@ The Gaia system animation can be visualized [here](https://youtu.be/xAc13Ko-bt4)
 * [Thalles José de S. Cansi](https://github.com/ThallesCansi)  
 * [Caio M. Cavallari Ruas](https://github.com/CaioRuas24010)
 * [Caio M. Leão Dantas](https://github.com/Caiomld)  
-* [Rafael Anis Shaikhzadeh](https:github.com/RafaelShaikhzadeh)  
+* [Rafael Anis Shaikhzadeh](https://github.com/Rafael24018)  
 * [Julia G. Almeida dos Santos](https://github.com/JuliaGuedesASantos)  
 * [Ana Luz](https://github.com/LuzMendes)  
  

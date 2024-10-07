@@ -19,6 +19,15 @@ All the minigames can be direct accessed by these links:
 [Ground Planet minigame](https://scratch.mit.edu/projects/1077313388/).
 
 The Gaia system animation can be visualized [here](https://youtu.be/xAc13Ko-bt4).
+
+## Contributors
+
+* [Thalles José de S. Cansi](https://github.com/ThallesCansi)  
+* [Caio M. Cavallari Ruas](https:github.com/CaioRuas24010)  
+* [Caio M. Leão Dantas](https://github.com/Caiomld)  
+* [Rafael Anis Shaikhzadeh](https:github.com/RafaelShaikhzadeh)  
+* [Julia G. Almeida dos Santos](https://github.com/JuliaGuedesASantos)  
+* [Ana Luz](https://github.com/LuzMendes)  
  
 ### About this app:
 

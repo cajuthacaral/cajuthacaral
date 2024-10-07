@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Nasa Project - Capy-tain Juca: The Gaia Mission
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project done for NASA Space Apps Challenge 2024. Find more about the project [here](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/caju-thacaral/?tab=project).
 
-## Available Scripts
+# Website link
 
-In the project directory, you can run:
+The project can be accessed by clicking this [link](https://cajuthacaral.github.io).
 
-### `npm start`
+## Project Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+"Capy-tain Juca: The Gaia Mission" is an immersive experience where players join Juca, an intergalactic capybara astronaut, on a mission to restore balance to four interconnected planets, addressing environmental challenges inspired by real-world NASA data. Each planet represents a different Earth system, and the game demonstrates how disruptions in one (like wildfires or pollution) impact the others, illustrating the intricate global connections emphasized in NASA's Earth systems research. The project uses multimedia elements—animations, storytelling, real-world imagery, and interactive minigames—combined with NASA satellite data to showcase these interconnections. By doing so, we aim to educate and inspire current and future generations to both admire Earth’s beauty and understand the critical importance of maintaining balance across its ecosystems.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Other links:
 
-### `npm test`
+All the minigames can be direct accessed by these links:
+[Pyro Planet minigame](https://scratch.mit.edu/projects/1077276956/);
+[Aqua Planet minigame](https://scratch.mit.edu/projects/1077402576/);
+[Wind Planet minigame](https://scratch.mit.edu/projects/1077373370/);
+[Ground Planet minigame](https://scratch.mit.edu/projects/1077313388/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Gaia system animation can be visualized [here](https://youtu.be/xAc13Ko-bt4).
 
-### `npm run build`
+## Contributors
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* [Thalles José de S. Cansi](https://github.com/ThallesCansi)  
+* [Caio M. Cavallari Ruas](https://github.com/CaioRuas24010)
+* [Caio M. Leão Dantas](https://github.com/Caiomld)  
+* [Rafael Anis Shaikhzadeh](https:github.com/RafaelShaikhzadeh)  
+* [Julia G. Almeida dos Santos](https://github.com/JuliaGuedesASantos)  
+* [Ana Luz](https://github.com/LuzMendes)  
+ 
+### About this app:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This App was created using Created using React App.
